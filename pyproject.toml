@@ -1,7 +1,23 @@
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
 [project]
 name = "foodvision-big"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "torch",
+    "torchvision",
+    "gradio",
+    "python-dotenv",
+    "matplotlib",
+    "tqdm",
+    "jupyter",
+    "notebook"
+]
+
+[tool.setuptools]
+packages = ["func"]

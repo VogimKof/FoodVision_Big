@@ -1,0 +1,8 @@
+data/data_food
+data/data_nonfood
+data/dataset
+__pycache__
+.ipynb_checkpoints/
+*.pyc
+.env
+foodvision_big.egg-info/
