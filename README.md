@@ -11,8 +11,6 @@ Available (or not) at https://huggingface.co/spaces/VogimKof/FoodVision_Big
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EA4335?logo=pytorch&logoColor=white)
-![TorchVision](https://img.shields.io/badge/TorchVision-Computer%20Vision-FF6F00)
-![Gradio](https://img.shields.io/badge/Gradio-FF4B4B?logo=gradio&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Interface](https://img.shields.io/badge/UI-Gradio-ff69b4)
@@ -43,4 +41,5 @@ FoodVision_Big/
 ```
 
 ### things to improve itd.
+
 
