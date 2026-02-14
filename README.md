@@ -18,7 +18,7 @@ Available (or not) at https://huggingface.co/spaces/VogimKof/FoodVision_Big
 ![Interface](https://img.shields.io/badge/UI-Gradio-ff69b4)
 
 ### Repo structure
-
+```
 FoodVision_Big/
 ├── configs/
 │   ├── food_classes.txt  -> names of food classes are stored here
@@ -40,5 +40,7 @@ FoodVision_Big/
 │   └── Food_NonFood classifier prep.ipynb
 ├── pyproject.toml
 └── README.md
+```
 
 ### things to improve itd.
+
