@@ -5,6 +5,7 @@
 ### Model architecture
 
 ### App preview
+![App Demo](assets/FoodVision_Big_preview.gif)
 Available (or not) at https://huggingface.co/spaces/VogimKof/FoodVision_Big
 
 ### Technologies 
@@ -42,6 +43,7 @@ FoodVision_Big/
 ```
 
 ### things to improve itd.
+
 
 
 
