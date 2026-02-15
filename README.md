@@ -93,7 +93,21 @@ FoodVision_Big/
 └── README.md
 ```
 
-### things to improve itd.
+### Future improvements
+
+#### Dataset Improvements
+- Increase dataset size, particularly for non-food classes  
+- Improve class balance  
+- Standardize image quality and resolution across datasets  
+
+#### Model Improvements
+- Unfreeze upper EfficientNet layers and apply fine-tuning  
+- Experiment with larger architectures (e.g., EfficientNet-B3/B4)    
+
+#### Evaluation improvements 
+- Add confusion matrix and per-class metrics  
+- Implement cross-validation 
+
 
 
 
