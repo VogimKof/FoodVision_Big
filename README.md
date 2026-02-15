@@ -9,8 +9,8 @@ The dataset combines the Food-101 dataset with a custom non-food dataset collect
 
 ### Datasets 
 The project uses two main data sources:
--Food-101 dataset – for food classification
--Custom Non-Food dataset – images downloaded via Pexels API
+- Food-101 dataset – for food classification
+- Custom Non-Food dataset – images downloaded via Pexels API
 The final binary dataset (Food vs Non-Food) is created by merging and reorganizing these sources so it can fit into PyTorch dataloaders.
 
 Directory structure created:
@@ -34,10 +34,11 @@ data/
 └── examples/
 ```
 
-| Category	│ Images |  Classes |
-| Food	    │ 10000  |  101     |
-| Non-Food	│ 4642   |  24      |
-| Total    	│ 14842  |  125     |
+| Category   | Images | Classes |
+|------------|--------|---------|
+| Food       | 10000  | 101     |
+| Non-Food   | 4642   | 24      |
+| Total      | 14842  | 125     |
 
 Train/Test split ratio: 80/20
 
@@ -93,6 +94,7 @@ FoodVision_Big/
 ```
 
 ### things to improve itd.
+
 
 
 
