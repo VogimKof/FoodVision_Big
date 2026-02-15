@@ -32,12 +32,13 @@ data/
 │         ├── food/
 │         └── non_food/
 └── examples/
-
 ```
+
 | Category	│ Images |  Classes |
 | Food	    │ 10000  |  101     |
 | Non-Food	│ 4642   |  24      |
-| Total    	│ 14842
+| Total    	│ 14842  |  125     |
+
 Train/Test split ratio: 80/20
 
 **Dataset challanges**
@@ -92,6 +93,7 @@ FoodVision_Big/
 ```
 
 ### things to improve itd.
+
 
 
 
